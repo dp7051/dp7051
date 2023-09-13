@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi :3
+- **Languages**: Rust, Javscript/Typescript, Lua(u), Kotlin (learning)
+- **Frameworks**: React, Flamework
+- **Linux**: Arch (btw), Plasma, Kitty, zsh, p10k
+- **Contact**: [Mail](mailto:dp7051@proton.me)
+- **Can double jump** <!-- :3 :3 :3 -->
+- **PGP**: ``1EE9CF2E0CAD8282``
+- **Currently working on**: Nothing yet
 
-<!--
-**dp7051/dp7051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+ /| ､
+(°､ ｡ 7
+ |､  ~ヽ
+ じしf_,)〳
 -->
